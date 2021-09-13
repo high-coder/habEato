@@ -273,7 +273,7 @@ class _ProductPageState extends State<ProductPage> {
                                   transform: anySalad
                                       ? (Matrix4.translationValues(
                                       4,
-                                      -(size.height * 0.23),
+                                      -(size.height * 0.255),
                                       0)
                                     ..scale(0.9))
                                       : Matrix4.translationValues(
